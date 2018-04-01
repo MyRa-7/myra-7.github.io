@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-01T12:05:55+05:30</updated><id>http://localhost:4000/</id><title type="html">Mythreyi Ramesh</title><subtitle>Welcome to my website.</subtitle><entry><title type="html">The Ascent Begins</title><link href="http://localhost:4000/2018/04/01/hello-world.html" rel="alternate" type="text/html" title="The Ascent Begins" /><published>2018-04-01T17:20:56+05:30</published><updated>2018-04-01T17:20:56+05:30</updated><id>http://localhost:4000/2018/04/01/hello-world</id><content type="html" xml:base="http://localhost:4000/2018/04/01/hello-world.html">&lt;p&gt;Hi.&lt;/p&gt;
-
-&lt;p&gt;I’ve always wanted to do this.&lt;/p&gt;
-
-&lt;p&gt;As of now, this just a scratchpad on which I’ll experiment. Let’s see where that takes this “website”.&lt;/p&gt;
-
-&lt;p&gt;Thanks for stopping by.&lt;/p&gt;</content><author><name>Mythreyi</name></author><category term="update" /><summary type="html">Quick intro to the blog.</summary></entry></feed>
